@@ -23,20 +23,20 @@ rssagg/
 ├── models.go
 ├── scrapper.go
 ├── internal/
-│   ├── auth/
-│   │   └── auth.go
-│   └── database/
-│       ├── database.go
-│       └── feed_follows.sql
-│       └── feeds.sql
-│       └── posts.sql
-│       └── users.sql
+│ ├── auth/
+│ │ └── auth.go
+│ └── database/
+│ ├── database.go
+│ └── feed_follows.sql
+│ └── feeds.sql
+│ └── posts.sql
+│ └── users.sql
 ├── migrations/
-│   └── 001_users.sql
-│   └── 002_users_apikey.sql
-│   └── 003_feeds.sql
-│   └── 004_feed_follows.sql
-│   └── 005_feed_lastfetched.sql
-│   └── 006_posts.sql
+│ └── 001_users.sql
+│ └── 002_users_apikey.sql
+│ └── 003_feeds.sql
+│ └── 004_feed_follows.sql
+│ └── 005_feed_lastfetched.sql
+│ └── 006_posts.sql
 \```
 
