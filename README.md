@@ -9,6 +9,7 @@ FeedFusion is an RSS Aggregator that collects and displays content from multiple
 - Health Check Endpoint
 
 ## Project Structure
+
 \```
 rssagg/
 ├── main.go
@@ -38,3 +39,4 @@ rssagg/
 │   └── 005_feed_lastfetched.sql
 │   └── 006_posts.sql
 \```
+
