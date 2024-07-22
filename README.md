@@ -10,7 +10,7 @@ FeedFusion is an RSS Aggregator that collects and displays content from multiple
 
 ## Project Structure
 ```
-mssagg/
+rssagg/
 ├── main.go # Main application file
 ├── handler_feed.go
 ├── handler_feed_follows.go
